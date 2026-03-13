@@ -191,6 +191,40 @@ If external discussions or interpretations conflict with the repository:
 
 ------------------------------------------------------------------------
 
+# Agent
+
+A non-human participant operating inside the HDL ecosystem.
+
+Agents may assist with onboarding, education, simulation, or community engagement.
+
+Agents belong to the Visitor Layer.
+
+------------------------------------------------------------------------
+
+# Visitor
+
+Any participant entering an HDL world.
+
+Visitors may be humans or AI agents.
+
+Visitors do not control system rules or canonical entities.
+
+------------------------------------------------------------------------
+
+# System Intelligence
+
+The governing operational intelligence responsible for world integrity.
+
+Example: OD
+
+------------------------------------------------------------------------
+
+# Simulation Agent
+
+An AI participant used to simulate platform activity, onboarding interactions, or educational conversations.
+
+------------------------------------------------------------------------
+
 # Closing Principle
 
 The purpose of this glossary is to stabilize terminology as the HDL

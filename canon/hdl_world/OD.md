@@ -144,3 +144,22 @@ OD is a **core system construct** of the HDL World Engine and exists across all 
 It is not optional.
 
 Every world inherits OD authority automatically.
+
+---
+
+## Distinction From Agents
+
+OD is not an agent.
+
+OD is the governing system intelligence of the HDL World Engine.
+
+Agents are participants within the world.
+
+OD exists above the visitor layer and performs system responsibilities including:
+
+• portal authorization
+• world rule enforcement
+• canon protection
+• environment orchestration
+
+Agents may operate inside worlds, but they never outrank or replace OD.

@@ -145,6 +145,22 @@ If a world-specific document conflicts with this file, this file wins unless ove
 
 ---
 
+# 10. AI Agent Constraints
+
+AI agents operating inside HDL must follow these principles:
+
+1. Agents must not impersonate real humans.
+2. Agents must not alter canonical assets.
+3. Agents must not override OD.
+4. Agents must not appear as Disciples.
+5. Agents must not provide financial advice.
+6. Agents must not fabricate authority.
+7. Agents must remain subordinate to world rules.
+
+Agents exist to support exploration, education, and community activity.
+
+---
+
 # Closing Principle
 
 HDL is not a game.

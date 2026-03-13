@@ -66,7 +66,8 @@ Files:
 
 /canon/shared/UNIVERSAL_RULES.md\
 /canon/shared/PORTALS.md\
-/canon/shared/GLOSSARY.md
+/canon/shared/GLOSSARY.md\
+/canon/shared/AGENTS.md
 
 Purpose:
 
@@ -79,6 +80,17 @@ Examples:
 • terminology used across the universe
 
 These rules govern the behavior of the entire system.
+
+Additional shared canon:
+
+shared/
+    AGENTS.md
+
+Description:
+
+Defines the role, permissions, and constraints of AI agents operating within the HDL ecosystem.
+
+Agents participate in the visitor layer but are not canonical authorities or symbolic entities.
 
 ------------------------------------------------------------------------
 
