@@ -17,7 +17,7 @@ Shared architecture siblings:
 
 World specializations:
 - `../btc_world/RENDERING_IMPL.md`
-- `../btc_world/BTC_HEX_NETWORK_CANON.md`
+- `../btc_world/BTC_HEX_NETWORK_SPEC.md`
 
 ---
 

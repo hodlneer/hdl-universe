@@ -22,13 +22,13 @@ Core doctrine:
 - `ENTITIES.md`
 - `OD.md`
 - `SATOSHI.md`
-- `BTC_HEX_NETWORK_CANON.md`
+- `BTC_HEX_NETWORK_SPEC.md`
 
 Supporting implementation docs:
 - `ENGINE_PIPELINE.md`
 - `DATA_BINDING.md`
 - `RENDERING_IMPL.md`
-- `BTC_HEX_NETWORK_CANON_FULL_SPEC.md`
+- `BTC_HEX_NETWORK_SPEC.md`
 
 Shared dependencies:
 - `../shared/UNIVERSAL_RULES.md`

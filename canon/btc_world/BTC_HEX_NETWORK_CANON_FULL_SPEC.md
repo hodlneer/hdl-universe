@@ -1,3 +1,11 @@
+# ⚠️ DEPRECATED
+
+This document has been consolidated into:
+
+→ BTC_HEX_NETWORK_SPEC.md
+
+DO NOT update this file.
+
 # BTC WORLD — HEX NETWORK CANON (FULL SPEC)
 
 ## Purpose

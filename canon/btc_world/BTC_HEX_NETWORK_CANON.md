@@ -1,4 +1,12 @@
 
+# ⚠️ DEPRECATED
+
+This document has been consolidated into:
+
+→ BTC_HEX_NETWORK_SPEC.md
+
+DO NOT update this file.
+
 # HDL / HODLNEER Canonical Specification
 ## Bitcoin Sphere – Hex Network Model
 

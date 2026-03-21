@@ -31,7 +31,7 @@ Shared dependencies:
 Sibling implementation docs:
 - `ENGINE_PIPELINE.md`
 - `DATA_BINDING.md`
-- `BTC_HEX_NETWORK_CANON_FULL_SPEC.md`
+- `BTC_HEX_NETWORK_SPEC.md`
 
 ---
 

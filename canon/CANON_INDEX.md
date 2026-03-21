@@ -37,7 +37,7 @@ documents, diagrams and brand materials must respect this hierarchy.
 - Canonical Objects & Entities
   World-specific canonical objects, origins records, system
   intelligence documents and symbolic entities. Examples: `OD.md`,
-  `ENTITIES.md`, `DISCIPLES.md`, `BTC_HEX_NETWORK_CANON.md`, etc.
+  `ENTITIES.md`, `DISCIPLES.md`, `BTC_HEX_NETWORK_SPEC.md`, etc.
   These files are subordinate to all layers above.
 
 In addition to the doctrinal stack, the repository contains shared
@@ -136,7 +136,7 @@ Examples include:
   disciplines like cryptography, DeFi and on-chain art.
 - `/canon/btc_world/OD.md` – the Bitcoin origins document.
 - `/canon/btc_world/SATOSHI.md` – defines Satoshi in canon.
-- `/canon/btc_world/BTC_HEX_NETWORK_CANON.md` – describes the hex-sphere
+- `/canon/btc_world/BTC_HEX_NETWORK_SPEC.md` – describes the hex-sphere
   representation of the Bitcoin network.
 - `/canon/btc_world/ENTITIES.md` – enumerates BTC World entities
   (blocks, nodes, miners, etc.).
@@ -168,7 +168,7 @@ semantics are expressed in concrete terms.
 | `/canon/btc_world/ENGINE_PIPELINE.md` | Specialises the universal engine pipeline for BTC World. It adapts shared stages to Bitcoin data, defines world-specific rendering targets (DOM, 3D, VR) and explains how hexes and particle flows represent transactions. This file must reference `../shared/ENGINE_PIPELINE.md` as its parent pipeline. |
 | `/canon/btc_world/DATA_BINDING.md` | Describes how Bitcoin network data (blocks, transactions, mempool) binds to visual metrics like position, colour and motion. |
 | `/canon/btc_world/RENDERING_IMPL.md` | Explains how BTC World implements rendering using instancing, camera behaviour and performance strategies across 2D, 3D and VR targets. |
-| `/canon/btc_world/BTC_HEX_NETWORK_CANON_FULL_SPEC.md` | Provides a full technical specification of the hex-sphere representation of the Bitcoin network, including coordinate systems, clustering, adjacency and rendering details. |
+| `/canon/btc_world/BTC_HEX_NETWORK_SPEC.md` | Provides the consolidated canonical and technical specification of the hex-sphere representation of the Bitcoin network, including participation semantics, rendering requirements and performance rules. |
 
 ## Current Worlds
 
@@ -195,9 +195,9 @@ Purpose: Represents the Bitcoin ecosystem. Key entities include
 Satoshi Nakamoto, Genesis block structures, mining constructs, the BTC
 hex network and the Bitcoin origins document.
 Core doctrine: `_WORLD_OVERVIEW.md`, `RULES.md`, `ENTITIES.md`,
-`OD.md`, `BTC_HEX_NETWORK_CANON.md`, `SATOSHI.md`.
+`OD.md`, `BTC_HEX_NETWORK_SPEC.md`, `SATOSHI.md`.
 Supporting implementation docs: `ENGINE_PIPELINE.md`,
-`DATA_BINDING.md`, `RENDERING_IMPL.md`, `BTC_HEX_NETWORK_CANON_FULL_SPEC.md`.
+`DATA_BINDING.md`, `RENDERING_IMPL.md`, `BTC_HEX_NETWORK_SPEC.md`.
 
 ## Future Worlds
 
