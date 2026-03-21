@@ -8,7 +8,7 @@ It does NOT redefine the engine.
 
 Instead, it specifies how Bitcoin data flows through the canonical pipeline defined in:
 
-→ `shared/ENGINE_PIPELINE.md`
+→ `../shared/ENGINE_PIPELINE.md`
 
 ## Related Documents
 
@@ -42,7 +42,7 @@ This file provides:
 All universal pipeline stages (ingestion → normalization → transform → etc.)
 are defined in:
 
-→ `shared/ENGINE_PIPELINE.md`
+→ `../shared/ENGINE_PIPELINE.md`
 
 ---
 

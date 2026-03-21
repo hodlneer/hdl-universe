@@ -613,6 +613,34 @@ They may only specify:
 - world-specific event semantics
 - world-specific shader behaviors
 
+## Canonical Mapping Rule
+
+All world-specific documents must reference shared canonical files using correct relative paths.
+
+Examples:
+
+- From `canon/btc_world/`:
+  → `../shared/ENGINE_PIPELINE.md`
+
+- From `canon/hdl_world/`:
+  → `../shared/WALLET_MODEL.md`
+
+Incorrect examples (DO NOT USE):
+
+- `shared/ENGINE_PIPELINE.md`
+- absolute or broken paths
+
+Rules:
+
+- All references must resolve correctly in the repository structure
+- No document may point to a non-existent path
+- Canon navigation must remain intact for both humans and tooling
+
+This prevents:
+- broken documentation graphs
+- invalid cross-file references
+- architectural drift between worlds
+
 ---
 
 ## Guidance for Revising Existing World-Specific Files
