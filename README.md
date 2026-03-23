@@ -1,7 +1,6 @@
-# HDL World Engine
+# HDL Universe
 
-**The HDL World Engine is the canonical source of truth for the HDL
-universe.**
+**HDL Universe is the canonical source of truth for HDL.**
 
 This repository does not exist to host tools.
 
@@ -44,7 +43,7 @@ But they all connect through HDL.
 HDL functions like a **wallet for worlds**.
 
 Just as HDL connects wallets, exchanges, people, and assets --- the HDL
-World connects **blockchain ecosystems**.
+Universe connects **blockchain ecosystems**.
 
 ------------------------------------------------------------------------
 
@@ -302,7 +301,7 @@ identity.
 
 # HDL.fun
 
-The HDL World Engine is the symbolic and architectural backbone of
+The HDL Universe is the symbolic and architectural backbone of
 **HDL.fun**.
 
 HDL.fun connects:
@@ -313,7 +312,7 @@ HDL.fun connects:
 -   communities
 -   blockchain ecosystems
 
-The HDL World Engine visualizes that reality.
+The HDL Universe visualizes that reality.
 
 ------------------------------------------------------------------------
 

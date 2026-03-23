@@ -4,7 +4,7 @@
 
 This document explains the purpose of the parent repository and the role of its major directories.
 
-`hdl-world-engine` is not the product repository. It is the architecture and doctrine repository that defines:
+`hdl-universe` is not the product repository. It is the architecture and doctrine repository that defines:
 
 - canonical truth
 - translation from canon into product requirements

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document tracks the discrepancies between the HDL canon (as defined in the `hdl-world-engine` repo) and the current product implementation (frontend and backend). It acts as a living checklist of missing features, misalignments and priorities.
+This document tracks the discrepancies between the HDL canon (as defined in the `hdl-universe` repo) and the current product implementation (frontend and backend). It acts as a living checklist of missing features, misalignments and priorities.
 
 ## Critical Gaps
 
