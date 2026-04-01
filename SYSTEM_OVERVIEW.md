@@ -21,14 +21,14 @@ HDL is a multi-layered system composed of:
 
 At the top level, this repository is organized around:
 
-- `canon/`
-- `bridges/`
-- `planning/` when planning artifacts are needed
+- `02_canon/`
+- `08_bridges/`
+- `01_governance/` for principles, decisions, and constraints
 - root guidance documents such as `SYSTEM_OVERVIEW.md`
 
-### `canon/`
+### `02_canon/`
 
-The `canon/` directory defines truth.
+The `02_canon/` directory defines truth.
 
 It contains the rules, entities, world structure, identity model, and invariant system behavior that HDL must follow. Product limitations do not redefine canon.
 
@@ -45,9 +45,9 @@ Key principle:
 
 > Canon defines how the system must behave.
 
-### `bridges/`
+### `08_bridges/`
 
-The `bridges/` directory translates canonical truth into implementation strategy.
+The `08_bridges/` directory translates canonical truth into implementation strategy.
 
 It is where doctrine is mapped into:
 

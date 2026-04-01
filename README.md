@@ -1,329 +1,268 @@
 # HDL Universe
 
-**HDL Universe is the canonical source of truth for HDL.**
+HDL Universe is the long-term governance, canon, and orchestration repository for the broader HDL ecosystem.
 
-This repository does not exist to host tools.
+This repository is no longer just a canon dump. It is the persistent knowledge layer that captures HDL's evolving truth across time so that strategy, planning, implementation, and organizational design stay aligned as the ecosystem grows.
 
-It exists to **protect meaning**.
+At a practical level, this repo is intended to serve as the root of the Obsidian vault for HDL. The vault preserves the original canon work while expanding to support governance, personas, Paperclip organizational design, agent definitions, bridge documents, and structured feedback loops from downstream execution.
 
-Everything built on HDL --- VR environments, WebGL simulations,
-visualizations of blockchain adoption, onboarding experiences, and
-future worlds --- must derive its rules, symbolism, and constraints from
-the doctrine stored here.
+---
 
-This repo defines **what HDL is allowed to become**.
+## Why this repository exists
 
-Tools merely execute it.
+HDL is not a single app or a single repo. It is an evolving ecosystem with multiple layers, including product, lore, architecture, wallet experience, social identity, community systems, governance, and adjacent structures that may influence or support the larger vision over time.
 
-------------------------------------------------------------------------
+Because this work unfolds gradually across months and years, we need a durable system that:
 
-# The Core Idea
+* preserves historical context
+* holds the canon and core truth
+* captures evolving decisions and rationale
+* supports zooming in and out between macro and micro concerns
+* prevents drift across strategy, architecture, and execution
+* provides continuity across humans, AI systems, and time
 
-HDL is the **center of a multi-world Web3 universe**.
+This repository exists to fill that role.
 
-It is not itself a blockchain world.
+---
 
-It is the **neutral layer that connects them all**.
+## Core purpose
 
-Users enter HDL first, and from there they may travel into different
-blockchain ecosystems represented as their own worlds.
+This repo acts as the HDL ecosystem's:
 
-Examples include:
+* **Canon layer**
+  The doctrine, world logic, shared definitions, and conceptual system behind HDL
 
--   The **Bitcoin World**
--   The **Ethereum Universe**
--   The **XRP World**
--   The **Solana World**
--   Future ecosystems
+* **Governance layer**
+  The principles, constraints, decisions, and directional truth that keep the system aligned
 
-Each of these worlds has its own visual logic, symbolism, and structure.
+* **Obsidian layer**
+  The local-first second brain used to hold context, connect ideas, and support long-horizon thinking
 
-But they all connect through HDL.
+* **Orchestration support layer**
+  The place where high-level organizational concepts are defined before they are routed into Paperclip or implementation workflows
 
-HDL functions like a **wallet for worlds**.
+* **Bridge layer**
+  The translation surface between vision and execution, including links into implementation repos, specs, and downstream work
 
-Just as HDL connects wallets, exchanges, people, and assets --- the HDL
-Universe connects **blockchain ecosystems**.
+---
 
-------------------------------------------------------------------------
+## What this repo is not
 
-# The HDL White World
+This repo is **not** the main HDL product codebase.
+It is **not** the runtime orchestration engine.
+It is **not** the task execution layer.
 
-The **HDL White World** is the central hub.
+Instead:
 
-It is intentionally minimal.
+* product repos build things
+* Paperclip orchestrates work and organizational execution
+* agents and implementation systems operate in scoped lanes
+* this repo keeps the truth, structure, and long-term coherence intact
 
-It is not owned by any blockchain.
+---
 
-It is not a market.
+## Relationship to Obsidian
 
-It is not a game.
+This repository is intended to be opened directly as an Obsidian vault.
 
-It is a **neutral space where all ecosystems intersect**.
+That means:
 
-The White World exists to provide:
+* notes are plain Markdown
+* links between concepts are first-class
+* structure can evolve over time
+* historical context remains portable and version-controlled
+* no proprietary lock-in is introduced at the content layer
 
--   entry
--   orientation
--   navigation
--   identity
--   connection
+Obsidian is used here as a support system for deep thinking, governance, alignment, and long-term continuity. It is not expected to replace execution systems. It exists to keep the larger direction coherent while other tools and agents operate within their own lanes.
 
-From here, users can access their wallet, their social feed, their
-profile, news, or travel into ecosystem worlds.
+---
 
-------------------------------------------------------------------------
+## Relationship to Paperclip
 
-# OD --- The Key
+Paperclip is the execution and orchestration layer.
 
-At the center of the HDL White World is **OD**.
+Paperclip is where organizational structure, task routing, and operational follow-through will eventually become active and hands-on. This repo supports that future by defining:
 
-OD is not a chatbot.
+* high-level company structure
+* roles and responsibilities
+* operating patterns
+* decision frameworks
+* agent boundaries
+* execution expectations
 
-OD is the **governing intelligence of the HDL universe**.
+In that sense, this repo helps define **what must be true** and **how the system should think**, while Paperclip helps determine **how work gets routed and carried out**.
 
-OD exists to:
+---
 
--   welcome users
--   guide navigation
--   protect the tone of the world
--   enforce canonical rules
+## Relationship to Claude and other AI systems
 
-OD does not replace human intent.
+AI systems are part of the workflow, but they do not own the long-term truth.
 
-OD **enforces it**.
+This repo exists in part because no single model session can reliably hold the full historical and strategic context of HDL over time. AI agents are strongest when operating within scoped lanes. This repository helps provide that grounding.
 
-In the HDL world architecture:
+### Expected AI role in this ecosystem
 
-OD is the **Key**.
+AI systems such as Claude are expected to:
 
-------------------------------------------------------------------------
+* read relevant portions of the vault
+* operate within a defined vertical or task lane
+* break scoped goals into epics, tasks, and subtasks
+* implement or support implementation inside the correct repos
+* report back blockers, results, and assumptions
 
-# The Twelve Disciples
+AI systems are **not** expected to originate or continuously maintain the entire macro architecture of HDL in one live session. That responsibility belongs to this governance layer.
 
-The **Twelve Disciples** are canonical HDL assets.
+---
 
-They are represented as **Disciple aircraft**.
+## Current and evolving scope
 
-These aircraft are responsible for bringing users into the HDL world.
+The repo currently contains major canon and system-definition work, especially around:
 
-They symbolize the individuals who move the blockchain ecosystem
-forward.
+* HDL world and shared doctrine
+* BTC world and rendering/system concepts
+* shared entities, routing, proof, particles, portals, and related concepts
+* bridge documents to HDL platform work
+* system overview and naming evolution
 
-Important rule:
+The scope is now expanding to also include:
 
-**The Disciples belong only to HDL.**
+* governance and principles
+* explicit decisions and rationale
+* personas and user lenses
+* capabilities and use cases
+* Paperclip organization design
+* executive and agent role definitions
+* feedback summaries from downstream implementation
 
-They do **not** exist inside blockchain-specific worlds.
+---
 
-They operate from the HDL White World and represent onboarding and
-expansion of the entire Web3 ecosystem.
+## Repository structure
 
-When a Disciple appears in flight it signifies:
-
-> A new user entering the HDL world.
-
-------------------------------------------------------------------------
-
-# Blockchain Worlds
-
-Blockchain ecosystems exist as **separate worlds** connected to HDL.
-
-Each blockchain world maintains its own symbolism.
-
-For example:
-
-## Bitcoin World
-
-The Bitcoin world contains elements tied specifically to Bitcoin's
-history and identity.
-
-Examples include:
-
--   The **Genesis Cube**
--   The **Satoshi Nakamoto statue**
--   Bitcoin adoption visualizations
--   Blockchain wallet sphere simulations
--   Geographic adoption movement
-
-These elements **do not exist in the HDL White World**.
-
-They belong exclusively to the Bitcoin world.
-
-Future worlds will follow the same rule.
-
-------------------------------------------------------------------------
-
-# Canon Before Tools
-
-This repository is intentionally **tool-agnostic**.
-
-Blender, Three.js, ComfyUI, WebXR, Unreal Engine, and future
-technologies may all be used to render HDL environments.
-
-But none of those tools define HDL.
-
-Doctrine does.
-
-Tools must **submit to canon**, not the reverse.
-
-------------------------------------------------------------------------
-
-# Repository Structure
-
-The repository is organized around **meaning first**.
-
-The live canon currently follows this structure:
+The structure will continue to evolve, but the intended model is roughly:
 
 ```text
-/canon
-    /shared
-        CANON_INVARIANTS.md
-        UNIVERSAL_RULES.md
-        PORTALS.md
-        GLOSSARY.md
-        WALLET_MODEL.md
-        VISUALIZATION_RULES.md
-        ENGINE_PIPELINE.md
-        RENDERING_STRATEGY.md
-        LOD_STRATEGY.md
-        PARTICLE_SYSTEMS.md
-        AGENTS.md
-        BRAND_SYSTEM.md
-
-    /hdl_world
-        _WORLD_OVERVIEW.md
-        RULES.md
-        OD.md
-        DISCIPLES.md
-        ENTITIES.md
-        IDENTITY_ANCHOR.md
-        ROUTING_ENGINE.md
-        WORLD_TOPOLOGY.md
-        PROOF_ENGINE.md
-        PROOF_ENGINE_LORE.md
-
-    /btc_world
-        _WORLD_OVERVIEW.md
-        RULES.md
-        OD.md
-        SATOSHI.md
-        ENTITIES.md
-        BTC_HEX_NETWORK_CANON.md
-        BTC_HEX_NETWORK_CANON_FULL_SPEC.md
-        DATA_BINDING.md
-        ENGINE_PIPELINE.md
-        RENDERING_IMPL.md
-
-    CANON_INDEX.md
-    CANON_AUTHORITY.md
+hdl-universe/
+├── README.md
+├── SYSTEM_OVERVIEW.md
+├── .obsidian/
+├── 00_inbox/
+├── 01_governance/
+│   ├── vision/
+│   ├── principles/
+│   ├── constraints/
+│   ├── decisions/
+│   └── terminology/
+├── 02_canon/
+│   ├── hdl_world/
+│   ├── btc_world/
+│   └── shared/
+├── 03_personas/
+├── 04_capabilities/
+├── 05_use_cases/
+├── 06_paperclip/
+│   ├── org_structure/
+│   ├── roles/
+│   ├── workflows/
+│   └── operating_model/
+├── 07_agents/
+│   ├── executive/
+│   ├── domain/
+│   └── patterns/
+├── 08_bridges/
+│   ├── hdl-platform/
+│   └── other-project-bridges/
+├── 09_feedback/
+│   ├── implementation-results/
+│   ├── blockers/
+│   └── lessons/
+└── archive/
 ```
 
-Within that structure:
+This is a target direction, not a rigid final schema. The structure should remain flexible enough to evolve as the real needs of the system become clearer.
 
-- `canon/shared/` contains cross-world doctrine, architecture, rendering, terminology, and brand-adjacent canon.
-- `canon/hdl_world/` contains HDL world doctrine, system intelligence, identity, routing, topology, and proof systems.
-- `canon/btc_world/` contains Bitcoin world doctrine, origins, entities, rendering implementation, data binding, and Bitcoin-specific technical canon.
-- `canon/CANON_INDEX.md` is the navigation map for the repo.
-- `canon/CANON_AUTHORITY.md` defines how canon is ratified and maintained.
+---
 
-Files in `/canon` define immutable truths, shared architecture, and world-specific implementation doctrine.
+## Design principles for this repo
 
-Rendering engines, websites, apps, and simulations should inherit from this structure rather than invent their own meaning model.
+The repo should follow these principles:
 
-## Architecture Model
+### 1. Preserve continuity
 
-The repo now operates across three distinct but connected layers:
+Past thinking matters. Historical context should be preserved, not discarded, unless there is a clear reason to archive or replace it.
 
-- **Doctrinal canon**: invariants, universal rules, world overviews, rules, and world-specific canonical objects define what is true.
-- **Shared architecture canon**: engine, wallet, visualization, rendering, LOD, and particle documents define how truth becomes interoperable systems.
-- **World implementation canon**: per-world pipeline, binding, topology, routing, proof, and rendering specs define how a specific world inherits shared architecture without breaking doctrine.
+### 2. Keep canon and governance connected
 
-The intended reading path is:
+Canon should not drift away from strategy, and strategy should not drift away from the world it is meant to serve.
 
-1. Start with `canon/CANON_INDEX.md`
-2. Read doctrinal canon first
-3. Read shared architecture second
-4. Read world-specific implementation docs last
+### 3. Support macro and micro thinking
 
-This keeps meaning, system design, and implementation specialization separated while still allowing them to reinforce each other.
+The system should make it easy to zoom out to the ecosystem level and zoom in to a single persona, capability, role, or decision.
 
-------------------------------------------------------------------------
+### 4. Prefer clarity over premature perfection
 
-# Canon Synchronization
+The structure should improve over time, but should not become so rigid that it blocks discovery and evolution.
 
-Discovery often happens in conversation between the HDL founder and OD.
+### 5. Make downstream execution easier
 
-However, conversation is **not canon**.
+The goal is not to create documentation for its own sake. The goal is to reduce ambiguity so that Paperclip, Claude, and other execution systems can operate more effectively.
 
-Canon only exists once it is written into this repository.
+### 6. Keep the truth portable
 
-The workflow is:
+Content should remain in Markdown and version-controlled so the knowledge layer remains durable and tool-agnostic over time.
 
-1.  Discovery happens in discussion
-2.  Doctrine is drafted
-3.  Canon is updated
-4.  The repository becomes the official source of truth
+---
 
-If conversation and repository ever disagree:
+## Version control and evolution
 
-**The repository wins.**
+Because this repo is the knowledge and governance layer for a long-term ecosystem, version control is essential.
 
-------------------------------------------------------------------------
+Git is used not just to track file changes, but to preserve the evolution of:
 
-# What This Repo Is Not
+* ideas
+* structure
+* doctrine
+* decisions
+* organizational models
+* system direction
 
-This repository is **not**:
+We do not expect to get the structure perfectly right on day one. This repository is expected to evolve and harden over time.
 
--   a Blender project
--   a ComfyUI workflow repo
--   an experiment sandbox
--   a place for concept art
+---
 
-Those things may exist elsewhere.
+## Security posture
 
-This repo exists only to protect **meaning and invariants**.
+This vault is intended to live locally and be opened with Obsidian as a local-first tool.
 
-------------------------------------------------------------------------
+That said:
 
-# Why This Exists
+* avoid storing raw secrets in notes
+* be deliberate about plugin usage
+* treat external AI integrations carefully
+* use Git intentionally and review changes before committing
 
-Worlds fail when meaning drifts.
+The aim is to preserve portability and long-term trust without introducing unnecessary operational risk.
 
-Speed without doctrine produces fragmentation.
+---
 
-Optimization too early freezes accidents into canon.
+## Near-term focus
 
-This repository exists so that HDL can evolve without losing its
-identity.
+The immediate next phase for this repo is to:
 
-------------------------------------------------------------------------
+* preserve and reorganize the existing canon content
+* establish the initial governance structure
+* introduce personas as a first-class entry point
+* begin defining the Paperclip organizational layer
+* create clearer bridge surfaces into implementation repos
+* formalize how downstream execution reports back into this vault
 
-# HDL.fun
+---
 
-The HDL Universe is the symbolic and architectural backbone of
-**HDL.fun**.
+## Summary
 
-HDL.fun connects:
+HDL Universe is the long-term second brain for the HDL ecosystem.
 
--   people
--   wallets
--   exchanges
--   communities
--   blockchain ecosystems
+It preserves the canon, anchors governance, supports Obsidian-based knowledge work, and provides the structure needed so strategy, organization, and downstream execution can stay aligned over time.
 
-The HDL Universe visualizes that reality.
-
-------------------------------------------------------------------------
-
-# Closing Principle
-
-Compute is disposable.
-
-Platforms change.
-
-Rendering engines evolve.
-
-**Canon persists.**
-
-HDL.fun
+It is not the product itself.
+It is not the final execution layer.
+It is the continuity layer that helps everything else stay coherent.
