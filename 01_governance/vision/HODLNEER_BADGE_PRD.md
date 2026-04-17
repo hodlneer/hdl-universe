@@ -1,6 +1,6 @@
 # HODLNEER Badge PRD
 
-**Status:** Draft v1
+**Status:** Draft v2 — updated 2026-04-17
 **Owner:** Core Canon Leadership
 **Location:** `01_governance/vision/`
 
@@ -149,16 +149,17 @@ Origin Tier is not required for initial rollout completeness.
 
 ### Application Path
 
-Users may:
-- Request consideration for higher recognition
-- Submit supporting evidence
-- Enter a manual review queue
+Users may flag themselves for consideration:
+- During onboarding (opt-in step)
+- Via a post-onboarding review request
+- By submitting supporting evidence and references
 
-Verification may include documentation, references, and direct validation (including human verification if necessary).
+Flagging enters a manual admin review queue. It is not a formal application process. Verification may include documentation, references, and direct validation — including human review for whales and institutions.
 
 ### Key Rule
 
-> Applying does not guarantee qualification.
+> Flagging does not initiate a guaranteed process.
+> Qualification is at admin discretion.
 
 ---
 
@@ -260,7 +261,36 @@ It should NOT feel like: spam, forced promotion.
 
 ---
 
-## 9. Issuance Model
+## 9. Badge Evolution and Revocation
+
+### Evolution (Tier Upgrades)
+
+A badge can be upgraded when a user provides stronger proof than originally submitted.
+
+- User submits new evidence (e.g. older wallet holdings, historical account records not previously connected)
+- System re-evaluates badge outcome against updated evidence
+- If new evidence supports a higher tier, badge is upgraded
+- Upgrades are user-initiated and require actual new evidence — not re-submission of existing signals
+- Platinum upgrades require admin review regardless of submitted evidence
+
+### Permanence
+
+Outside of revocation, a badge is permanent. It is not time-limited, subscription-dependent, or subject to inactivity expiry. The badge represents historical truth. Historical truth does not expire.
+
+### Revocation
+
+A badge may be revoked when:
+- It was issued based on false, fabricated, or misrepresented evidence
+- The account or identity is found to be compromised or fraudulent
+- A previously valid proof source is invalidated
+
+Revocation is an admin action, not automated. Users are notified before revocation except in fraud or compromise cases. Revoked users may re-enter onboarding with legitimate proof.
+
+Revocation is **not** a behavioral penalty. It is strictly a proof-integrity mechanism.
+
+---
+
+## 10. Issuance Model
 
 ### Launch Model
 
@@ -288,7 +318,7 @@ Hodlneer is a standalone badge-generation system consumed by HDL.
 
 ---
 
-## 10. Constraints
+## 11. Constraints
 
 The badge must NOT become:
 - Meaningless flair
@@ -300,7 +330,7 @@ The badge must NOT become:
 
 ---
 
-## 11. Dependencies
+## 12. Dependencies
 
 This PRD depends on:
 
@@ -312,19 +342,21 @@ This PRD depends on:
 
 ---
 
-## 12. Open Questions
+## 13. Open Questions
 
-- Canonical tier naming beyond materials
-- Validation depth per tier
-- Privacy-preserving verification (whales / institutions)
-- Revocation triggers and process
-- Badge transferability (likely no)
-- Final share UX design
-- Evolution rules for tier upgrades
+See `09_feedback/open-questions.md` for the active tracked list. Key unresolved items:
+
+- Final canonical tier names (T-1)
+- Precise validation thresholds per tier (T-2)
+- Privacy-preserving verification for whales / institutions (T-3)
+- Badge visibility controls — can users hide? (T-4)
+- How dual-tier naming surfaces to users (N-1, N-2)
+- Reconciliation of material tier system with era × verification model (I-1)
+- Badge transferability — presumed no, not yet confirmed
 
 ---
 
-## 13. Summary
+## 14. Summary
 
 **The HODLNEER Badge is:**
 - A proof-bearing identity artifact
@@ -344,8 +376,10 @@ This PRD depends on:
 ## Related Documents
 
 - [[02_canon/Hodlneer/CANON/IDENTITY_MODEL|IDENTITY_MODEL]] — era and verification taxonomy this PRD depends on
+- [[02_canon/Hodlneer/CANON/TIER_SYSTEM|TIER_SYSTEM]] — canonical tier structure, validation framework, evolution and revocation rules
 - [[02_canon/Hodlneer/CANON/BADGE_VISUAL_SYSTEM|BADGE_VISUAL_SYSTEM]] — visual expression of tiers
 - [[02_canon/Hodlneer/CANON/PRODUCT_PRINCIPLES|PRODUCT_PRINCIPLES]] — guardrails governing badge decisions
 - [[02_canon/Hodlneer/EXECUTION/EPICS|EPICS]] — implementation lanes
 - [[02_canon/Hodlneer/HODLNEER_INDEX|HODLNEER_INDEX]] — vertical entry point
 - [[06_paperclip/HODLNEER_PAPERCLIP_SYSTEM_DESIGN|HODLNEER_PAPERCLIP_SYSTEM_DESIGN]] — agent orchestration system
+- `09_feedback/open-questions.md` — active unresolved questions log
