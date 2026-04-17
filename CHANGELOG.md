@@ -8,6 +8,11 @@ Tracks significant structural changes, new documents, and canon updates across t
 
 ## 2026-04-17
 
+### CoinDesk Most Influential Whitelist
+- **Created** `03_data/whitelists/COINDESK_INFLUENTIAL_WHITELIST.md` — canonical whitelist of individuals featured on CoinDesk's annual "Most Influential in Crypto" lists (2014–2025). Covers 73 unique individuals across 12 years. Includes master deduplicated table with years appeared, confidence tiers, and flags for anonymous/uncertain/excluded entries. Purpose: seed dataset for Hodlneer Platinum (Origin) tier recognition.
+- **Created** `03_data/whitelists/COINDESK_INFLUENTIAL_WHITELIST.json` — normalized JSON schema version of the whitelist for backend whitelist verification. Includes: per-entry confidence level (HIGH/MEDIUM/EXCLUDE), flag fields, yearly breakdown with coverage percentages, multi-year appearance statistics, and schema usage rules.
+- **Created** `03_data/` folder — new data layer for structured datasets supporting Hodlneer and other verticals
+
 ### Hodlneer Canonical App-Level PRD
 - **Created** `02_canon/HODLNEER_PRD.md` — root document for the Hodlneer vertical. Defines Hodlneer as identity infrastructure + badge generation system. Covers: system role in HDL ecosystem, core user journey, onboarding system, badge generation lifecycle, HDL integration boundaries, recognition tier summary, system constraints, future expansion paths, full dependency table. Does not duplicate badge logic — references `HODLNEER_BADGE_PRD.md` and `TIER_SYSTEM.md`.
 - **Updated** `02_canon/Hodlneer/HODLNEER_INDEX.md` — Document Status section now reflects both PRDs with correct scopes
