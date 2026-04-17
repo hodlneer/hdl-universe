@@ -8,6 +8,12 @@ Tracks significant structural changes, new documents, and canon updates across t
 
 ## 2026-04-17
 
+### Hodlneer Canonical App-Level PRD
+- **Created** `02_canon/HODLNEER_PRD.md` — root document for the Hodlneer vertical. Defines Hodlneer as identity infrastructure + badge generation system. Covers: system role in HDL ecosystem, core user journey, onboarding system, badge generation lifecycle, HDL integration boundaries, recognition tier summary, system constraints, future expansion paths, full dependency table. Does not duplicate badge logic — references `HODLNEER_BADGE_PRD.md` and `TIER_SYSTEM.md`.
+- **Updated** `02_canon/Hodlneer/HODLNEER_INDEX.md` — Document Status section now reflects both PRDs with correct scopes
+- **Updated** `02_canon/Hodlneer/CANON/HODLNEER_CANON_INDEX.md` — Document Status section updated to match
+- **Created** `00_inbox/2026-04-17_hodlneer-canonical-prd-app-level_INTAKE.md` — OD session preserved
+
 ### Vault Deduplication Audit
 - **Archived** `02_canon/btc_world/BTC_HEX_NETWORK_CANON.md` → `archive/btc_deprecated_2026-04-17/` (deprecated, superseded by `BTC_HEX_NETWORK_SPEC.md`)
 - **Archived** `02_canon/btc_world/BTC_HEX_NETWORK_CANON_FULL_SPEC.md` → same archive folder (deprecated, superseded)

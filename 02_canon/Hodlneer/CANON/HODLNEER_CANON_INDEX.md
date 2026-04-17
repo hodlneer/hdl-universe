@@ -44,11 +44,11 @@ See also: [[HODLNEER_INDEX]] | [[02_canon/CANON_INDEX|Vault Canon Index]]
 
 ## Document Status
 
-**Exists in governance (not yet canon):**
-- `01_governance/vision/HODLNEER_BADGE_PRD.md` — badge product definition (tiers, issuance, evolution). Governance layer only.
+**Canonical system PRD (canon layer):**
+- `02_canon/HODLNEER_PRD.md` — root document for the Hodlneer vertical. System boundaries, onboarding, badge lifecycle, HDL integration. All canon derives from this.
 
-**Still missing — needs creation:**
-- `HODLNEER_PRD.md` — app-level canon PRD. Must define: standalone iOS app, 3D Badge as core feature, cinematic reveal as signature moment, wallpaper as primary distribution vector, privacy-first identity controls, optional HDL integration. Different scope from governance badge PRD.
+**Feature-level PRD (governance layer):**
+- `01_governance/vision/HODLNEER_BADGE_PRD.md` — badge artifact definition: tiers, issuance, evolution, revocation. Scoped to the badge artifact, not the system.
 
 ---
 

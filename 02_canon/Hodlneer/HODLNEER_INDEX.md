@@ -109,11 +109,11 @@ Hodlneer is a standalone iOS identity product that verifies a user's crypto orig
 
 ## Document Status
 
-### Exists in Governance (not yet in Canon)
-- `01_governance/vision/HODLNEER_BADGE_PRD.md` — badge product definition: tier system, issuance model, evolution/revocation rules. Governance layer, not canon layer.
+### Canonical System PRD
+- `02_canon/HODLNEER_PRD.md` — **root document for this vertical**. Defines: Hodlneer as identity infrastructure, system boundaries, onboarding flow, badge generation lifecycle, HDL integration, future expansion. Read this first.
 
-### Still Missing — Needs Creation
-- `CANON/HODLNEER_PRD.md` — app-level canon PRD. Must define: standalone iOS app, Hodlneer 3D Badge as core feature, cinematic reveal as signature moment, wallpaper as primary distribution vector, privacy-first identity controls, optional HDL integration. Different scope from the governance badge PRD.
+### Feature-Level PRD (Governance)
+- `01_governance/vision/HODLNEER_BADGE_PRD.md` — badge artifact definition: tier system (Bronze→Platinum), issuance model, evolution/revocation rules. Scoped to the badge, not the system.
 
 ---
 
