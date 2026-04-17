@@ -9,8 +9,8 @@ Tracks significant structural changes, new documents, and canon updates across t
 ## 2026-04-17
 
 ### CoinDesk Most Influential Whitelist
-- **Created** `03_data/whitelists/COINDESK_INFLUENTIAL_WHITELIST.md` — canonical whitelist of individuals featured on CoinDesk's annual "Most Influential in Crypto" lists (2014–2025). Covers 73 unique individuals across 12 years. Includes master deduplicated table with years appeared, confidence tiers, and flags for anonymous/uncertain/excluded entries. Purpose: seed dataset for Hodlneer Platinum (Origin) tier recognition.
-- **Created** `03_data/whitelists/COINDESK_INFLUENTIAL_WHITELIST.json` — normalized JSON schema version of the whitelist for backend whitelist verification. Includes: per-entry confidence level (HIGH/MEDIUM/EXCLUDE), flag fields, yearly breakdown with coverage percentages, multi-year appearance statistics, and schema usage rules.
+- **Created** `03_data/whitelists/COINDESK_INFLUENTIAL_WHITELIST.md` — canonical whitelist of individuals featured on CoinDesk's annual "Most Influential in Crypto" lists (2014–2025). v1.1.0: 173 total entries, 153 HIGH confidence, 8 MEDIUM, 12 EXCLUDED. 2019 and 2020 years complete (100%). 2023 at 76% (38/50 confirmed), 2024 at 95%. Includes master deduplicated table, yearly breakdown, confidence tiers, data quality flags, and backend matching usage rules. Purpose: seed dataset for Hodlneer Platinum (Origin) tier recognition.
+- **Created** `03_data/whitelists/COINDESK_INFLUENTIAL_WHITELIST.json` — normalized JSON schema version. Per-entry confidence (HIGH/MEDIUM/EXCLUDE), flags, is_anonymous and is_organization booleans, yearly breakdown with entry ID lists, corrections log in metadata, multi-year appearance statistics. ID namespace: cdwl_001 through cdwl_173.
 - **Created** `03_data/` folder — new data layer for structured datasets supporting Hodlneer and other verticals
 
 ### Hodlneer Canonical App-Level PRD
