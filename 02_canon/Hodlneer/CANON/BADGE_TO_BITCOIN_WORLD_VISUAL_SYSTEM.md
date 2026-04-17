@@ -5,7 +5,7 @@ This document defines the intentional visual relationship between the Hodlneer b
 
 This is a canon-level design system document, not just a style note. The badge must not be designed in isolation.
 
-See also: [[HODLNEER_INDEX]] | [[CANON_INDEX]] | [[BADGE_VISUAL_SYSTEM]] | [[PRODUCT_PRINCIPLES]]
+See also: [[HODLNEER_INDEX]] | [[HODLNEER_CANON_INDEX]] | [[BADGE_VISUAL_SYSTEM]] | [[PRODUCT_PRINCIPLES]]
 
 ---
 

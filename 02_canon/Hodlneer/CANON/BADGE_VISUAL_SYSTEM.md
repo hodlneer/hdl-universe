@@ -3,7 +3,7 @@
 ## Purpose
 This document defines the badge visual system for the Hodlneer product vertical. It translates product, world, and reveal canon into a design system for the badge itself, covering silhouette, geometry, layering, materials, motion posture, era presentation, verification presentation, card relationship, and wallpaper implications.
 
-See also: [[HODLNEER_INDEX]] | [[CANON_INDEX]] | [[BADGE_TO_BITCOIN_WORLD_VISUAL_SYSTEM]] | [[IDENTITY_MODEL]]
+See also: [[HODLNEER_INDEX]] | [[HODLNEER_CANON_INDEX]] | [[BADGE_TO_BITCOIN_WORLD_VISUAL_SYSTEM]] | [[IDENTITY_MODEL]]
 
 ---
 

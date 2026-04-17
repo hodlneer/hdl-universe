@@ -11,6 +11,7 @@ See also: [[HODLNEER_INDEX]] | [[02_canon/CANON_INDEX|Vault Canon Index]]
 | File | Purpose |
 |------|---------|
 | [[IDENTITY_MODEL]] | Era taxonomy, verification taxonomy, Badge = Era × Verification, public/private identity rules |
+| [[TIER_SYSTEM]] | Material tier model (Bronze→Platinum), canonical meaning mapping, validation framework, evolution/revocation rules |
 | [[BADGE_VISUAL_SYSTEM]] | Badge silhouette, geometry, materials, era/verification visual logic, card vs badge distinction |
 | [[BADGE_TO_BITCOIN_WORLD_VISUAL_SYSTEM]] | Visual relationship between individual badge (hex cell) and collective Bitcoin sphere |
 | [[PRODUCT_PRINCIPLES]] | 15 operational guardrails for cross-team decision making |
@@ -41,9 +42,13 @@ See also: [[HODLNEER_INDEX]] | [[02_canon/CANON_INDEX|Vault Canon Index]]
 
 ---
 
-## Missing Canon (Needs Creation)
+## Document Status
 
-- `HODLNEER_PRD.md` — the formal PRD is referenced throughout but was not yet created. It should define: Hodlneer as a standalone iOS app/product vertical, core feature = the Hodlneer 3D Badge, signature moment = cinematic reveal, iOS wallpaper as primary distribution vector, privacy-first identity controls, optional HDL integration.
+**Exists in governance (not yet canon):**
+- `01_governance/vision/HODLNEER_BADGE_PRD.md` — badge product definition (tiers, issuance, evolution). Governance layer only.
+
+**Still missing — needs creation:**
+- `HODLNEER_PRD.md` — app-level canon PRD. Must define: standalone iOS app, 3D Badge as core feature, cinematic reveal as signature moment, wallpaper as primary distribution vector, privacy-first identity controls, optional HDL integration. Different scope from governance badge PRD.
 
 ---
 

@@ -5,7 +5,7 @@ This document converts the broader Hodlneer vision, manifesto, PRD, and identity
 
 This is not a philosophical essay. This is the operational guardrail layer.
 
-See also: [[HODLNEER_INDEX]] | [[CANON_INDEX]] | [[IDENTITY_MODEL]] | [[MANIFESTO]]
+See also: [[HODLNEER_INDEX]] | [[HODLNEER_CANON_INDEX]] | [[IDENTITY_MODEL]] | [[MANIFESTO]]
 
 ---
 

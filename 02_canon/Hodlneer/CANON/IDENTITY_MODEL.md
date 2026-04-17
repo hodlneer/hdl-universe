@@ -8,7 +8,7 @@ This is the source of truth for the Hodlneer identity classification system. It 
 - public vs private identity rules
 - how identity is expressed across Hodlneer, HDL.fun, and future 3D/VR surfaces
 
-See also: [[HODLNEER_INDEX]] | [[CANON_INDEX]] | [[BADGE_VISUAL_SYSTEM]] | [[PRODUCT_PRINCIPLES]]
+See also: [[HODLNEER_INDEX]] | [[HODLNEER_CANON_INDEX]] | [[BADGE_VISUAL_SYSTEM]] | [[PRODUCT_PRINCIPLES]]
 
 ---
 

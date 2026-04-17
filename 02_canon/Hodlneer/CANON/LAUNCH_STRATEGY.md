@@ -3,7 +3,7 @@
 ## Purpose
 This document defines the launch strategy for the standalone Hodlneer product vertical. It answers: how Hodlneer should be introduced to the world, how to position it without confusing it with HDL.fun, what story to lead with, what launch phases make the most sense, what assets and channels matter most, and how to sequence momentum without cheapening the product.
 
-See also: [[HODLNEER_INDEX]] | [[CANON_INDEX]] | [[LAUNCH_ANNOUNCEMENT]] | [[ASSET_PRODUCTION_CHECKLIST]]
+See also: [[HODLNEER_INDEX]] | [[HODLNEER_CANON_INDEX]] | [[LAUNCH_ANNOUNCEMENT]] | [[ASSET_PRODUCTION_CHECKLIST]]
 
 ---
 

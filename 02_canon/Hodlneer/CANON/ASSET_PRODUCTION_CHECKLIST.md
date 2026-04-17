@@ -5,7 +5,7 @@ This document defines the asset production checklist for the standalone Hodlneer
 
 This is the production discipline layer — not just a list of files.
 
-See also: [[HODLNEER_INDEX]] | [[CANON_INDEX]] | [[LAUNCH_STRATEGY]] | [[EPICS]]
+See also: [[HODLNEER_INDEX]] | [[HODLNEER_CANON_INDEX]] | [[LAUNCH_STRATEGY]] | [[EPICS]]
 
 ---
 

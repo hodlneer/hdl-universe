@@ -3,7 +3,7 @@
 ## Purpose
 This document defines the icon system for the standalone Hodlneer product vertical. It ensures that Hodlneer's iconography — from the app icon to supporting glyphs and badge-adjacent symbols — is coherent, recognizable, and grounded in the same visual logic as the badge, reveal, wallpaper, and world visualization systems.
 
-See also: [[HODLNEER_INDEX]] | [[CANON_INDEX]] | [[BADGE_VISUAL_SYSTEM]] | [[BADGE_TO_BITCOIN_WORLD_VISUAL_SYSTEM]]
+See also: [[HODLNEER_INDEX]] | [[HODLNEER_CANON_INDEX]] | [[BADGE_VISUAL_SYSTEM]] | [[BADGE_TO_BITCOIN_WORLD_VISUAL_SYSTEM]]
 
 ---
 

@@ -3,7 +3,7 @@
 ## Purpose
 This document defines the wallpaper system for the standalone Hodlneer iOS app. Wallpaper is not a throwaway export feature. It is one of the most important product differentiators and a core distribution mechanic.
 
-See also: [[HODLNEER_INDEX]] | [[CANON_INDEX]] | [[BADGE_VISUAL_SYSTEM]] | [[REVEAL_SEQUENCE_SPEC]]
+See also: [[HODLNEER_INDEX]] | [[HODLNEER_CANON_INDEX]] | [[BADGE_VISUAL_SYSTEM]] | [[REVEAL_SEQUENCE_SPEC]]
 
 ---
 

@@ -14,7 +14,7 @@ Hodlneer is a standalone iOS identity product that verifies a user's crypto orig
 02_canon/Hodlneer/
 ├── HODLNEER_INDEX.md         ← this file
 ├── CANON/
-│   ├── CANON_INDEX.md        ← canon-specific index
+│   ├── HODLNEER_CANON_INDEX.md ← canon-specific index
 │   ├── IDENTITY_MODEL.md     ← foundational: era + verification taxonomy
 │   ├── BADGE_VISUAL_SYSTEM.md
 │   ├── BADGE_TO_BITCOIN_WORLD_VISUAL_SYSTEM.md
@@ -46,7 +46,7 @@ Hodlneer is a standalone iOS identity product that verifies a user's crypto orig
 
 | Document | What it defines |
 |----------|----------------|
-| [[CANON/CANON_INDEX]] | Canon-specific navigation and hierarchy |
+| [[CANON/HODLNEER_CANON_INDEX]] | Canon-specific navigation and hierarchy |
 | [[CANON/IDENTITY_MODEL]] | Era taxonomy, verification taxonomy, public/private identity rules, badge output format |
 | [[CANON/BADGE_VISUAL_SYSTEM]] | Badge silhouette, geometry, layering, materials, era × verification visual logic |
 | [[CANON/BADGE_TO_BITCOIN_WORLD_VISUAL_SYSTEM]] | Visual bridge between individual badge (hex cell) and collective Bitcoin sphere |
@@ -107,9 +107,13 @@ Hodlneer is a standalone iOS identity product that verifies a user's crypto orig
 
 ---
 
-## Missing Documents (Needs Creation)
+## Document Status
 
-- `CANON/HODLNEER_PRD.md` — formal product requirements document (referenced throughout; not yet written). Should define: standalone iOS app, Hodlneer 3D Badge as core feature, cinematic reveal as signature moment, wallpaper as primary distribution vector, privacy-first identity controls, optional HDL integration.
+### Exists in Governance (not yet in Canon)
+- `01_governance/vision/HODLNEER_BADGE_PRD.md` — badge product definition: tier system, issuance model, evolution/revocation rules. Governance layer, not canon layer.
+
+### Still Missing — Needs Creation
+- `CANON/HODLNEER_PRD.md` — app-level canon PRD. Must define: standalone iOS app, Hodlneer 3D Badge as core feature, cinematic reveal as signature moment, wallpaper as primary distribution vector, privacy-first identity controls, optional HDL integration. Different scope from the governance badge PRD.
 
 ---
 
